@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     },
 
     text: {
-        fontSize: 25,
+        fontSize: 20,
         color: colors.background,
         fontFamily: fonts.heading
     }
